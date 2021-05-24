@@ -2,4 +2,4 @@
 
 ##Summary
 
-This repository contains all of the notes taken by Cam for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Cam](https://github.com/cmacdougall12) for the Lighthouse Labs Web Development Bootcamp.
