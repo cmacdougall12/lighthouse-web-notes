@@ -1,4 +1,4 @@
-#Cam's Notes
+#[Cam]'s Notes
 
 ##Summary
 
